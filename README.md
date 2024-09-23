@@ -58,7 +58,7 @@ while(True):
         break
 videoCaptureObject.release()
 cv2.destroyAllWindows()
-```
+``
 
 ```python
 # iii) Display the video by resizing the window
